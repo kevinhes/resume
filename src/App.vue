@@ -42,6 +42,7 @@
         </li>
       </ul>
     </header>
+    <hr>
     <main>
       <!-- skill -->
       <h2 class="mb-3">技能</h2>
@@ -72,6 +73,7 @@
         </div>
       </section>
       <!-- portfolio -->
+      <hr>
       <h2 class="mb-3">作品集</h2>
       <section class="mb-2">
         <ul class="portfolio-list list-unstyled">
@@ -115,6 +117,7 @@
         </ul>
       </section>
       <!-- 經歷 -->
+      <hr>
       <h2 class="mb-3">經歷</h2>
       <section class="mb-3">
         <ul class="portfolio-list list-unstyled">
